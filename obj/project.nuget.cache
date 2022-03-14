@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Je6YK+LmNiOaeMM/BXFwO4MdT4GZiRdD27rJxOibyD/QozpIcD5sawr/9RSBuXuph14UOjhgKe1hZur/wBW6kA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator.KANINI-LTP-459\\Downloads\\learnings-master\\learnings-master\\Dockersampleconfig.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator.KANINI-LTP-459\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
